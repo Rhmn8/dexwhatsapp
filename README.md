@@ -2,11 +2,11 @@
 
 
 # SOSMED ME
-['Whatsapp'](https://wa.me/6285821676621)
+[`Whatsapp`](https://wa.me/6285821676621)
 
-['Github'](https://github.com/Rhmn8)
+[`Github`](https://github.com/Rhmn8)
 
-['Instagram'](https://instagram.com/rahman_annivers)
+[`Instagram`](https://instagram.com/rahman_annivers)
 
 
 # INSTALL FOR TERMUX 
